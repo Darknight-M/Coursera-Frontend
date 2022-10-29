@@ -1,0 +1,17 @@
+h1 {
+	color: green;
+	font-size: 200%;
+}
+.red {
+	color: darkred;
+}
+.blue {
+	background-color: grey;
+}
+a:link {
+	color: green;
+}
+a:hover {
+	color: skyblue;
+	font-size: 200%;
+}
